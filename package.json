@@ -1,0 +1,22 @@
+{
+  "name": "fuelcontroller",
+  "version": "1.0.0",
+  "description": "Controller de consumo de combustivel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusansilva/fuelController.git"
+  },
+  "author": "Jusan Magno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusansilva/fuelController/issues"
+  },
+  "homepage": "https://github.com/jusansilva/fuelController#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
